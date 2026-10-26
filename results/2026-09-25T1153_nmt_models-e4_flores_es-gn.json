@@ -1,0 +1,118 @@
+{
+  "direction": "es-gn",
+  "n": 1012,
+  "metrics": {
+    "chrf++": 33.34,
+    "bleu": 7.23,
+    "comet_orientativo": 0.5673
+  },
+  "latency_s_per_item": 0.0754,
+  "samples": [
+    {
+      "src": "«Actualmente, tenemos ratones de cuatro meses de edad que antes solían ser diabéticos y que ya no lo son», agregó.",
+      "ref": "\"Ko'ãga roguereko anguja oguerekova 4-jasy ary ha ndoguerekói tuguy azuka, ha oguereko kuri tuguy azuka\", he'i ha'e.",
+      "hyp": "Ko'ágã, roguereko so'o irundy jasy oguerekóva ha'éva diabético ha ndaha'éiva, ombojoapy."
+    },
+    {
+      "src": "La investigación todavía se ubica en su etapa inicial, conforme indicara el Dr. Ehud Ur, docente en la carrera de medicina de la Universidad de Dalhousie, en Halifax, Nueva Escocia, y director del departamento clínico y científico de la Asociación Canadiense de Diabetes.",
+      "ref": "Dr. Ehud Ur, mbo'ehara medicina pegua Mbo'eha Guasu Dalhousie Halifax pe, Nueva Escocia pe, ha mburuvicha pe division clinico ha cientifico pe Joaju Canadiense Tuguy Azuka regua pe, he'i kuri pe tapykueho oimeha iñepyrũhaitepe gueteri.",
+      "hyp": "Ko investigación oime gueteri etapa inicial, según he'i Dr. Ehud Ur, mbo'ehára carrera de medicina Universidad de Dalhousie, Halifax, Nueva Escocia, ha director departamento clínico ha científico Asociación Canadiense de Diabetes."
+    },
+    {
+      "src": "Al igual que otros especialistas, es escéptico acerca de si la diabetes tiene cura y remarca que estos descubrimientos no son relevantes para quienes que ya padecen de diabetes de tipo 1.",
+      "ref": "Umi ambue expertoicha avei, ha'e ndogueroviái pe tuguy azuka ikatuha oñemonguera, ha oikuaauka ko ojuhúva ndoguerekoiha importancia umi avakuérape oguerekóma vaekue Tuguy Azuka tipo I-pe g̃uarã.",
+      "hyp": "Péicha ambue especialista, ndogueroviái diabetes oreko cura ha he'i ko'ã descubrimiento ndorekóiva relevancia umi orekóva diabetes tipo 1."
+    },
+    {
+      "src": "El lunes, Sara Danius, secretaria permanente del Comité por el Nobel de Literatura de la Academia Sueca, declaró públicamente en un programa radiofónico de Sveriges, en Suecia, que, al no poder contactar directamente con Bob Dylan para comunicarle el premio en Literatura 2016, el comité había abandonado sus esfuerzos por comunicarse con él.",
+      "ref": "Arakõipe, Sara Danius, secretaria permanente Comité Nobel Ñe'ẽporãhaipyrepe upe Academia Sueca pe, oikuauka kuri publicamente peteĩ radio programa jave upe Radio Sveriges pe, Suecia pe, upe comité ndaikatúigui oñe'ẽ Karai Bob Dylan ndive omombe'u haguã chupe ogana hague pe Premio Nobel Ñe'ẽporãhaipyrepe 2016 pegua, ohejama kuri pe ñeha'ã oñe'ẽ haguã hendive.",
+      "hyp": "Ágã lunes, Sara Danius, secretaria permanente Comité por el Nobel de Literatura de la Academia Sueca, he'i públicamente peteĩ programa radiofónico Sveriges, Suecia-pe, ndikatúigui oñomongeta Bob Dylan ndive oikuaauka hag̃ua chupe jopói Literatura 2016-pe, comité oheja oñeha'ã oñe'ẽ hendive."
+    },
+    {
+      "src": "Danius declaró: «Actualmente no estamos haciendo nada. Llamé y envié correos electrónicos a su asistente más cercano y recibí contestaciones muy cordiales. Por el momento, eso es sin dudas suficiente».",
+      "ref": "Danius omomarandu kuri \"Ko'agãite ndorojapói mba'eve hina. Ahenoi ha amondo correo kuri umi icolaborador kuera pe ha oguahẽ cheve ñembohovái angirũ portepe. Ko'agã upea pee mante.",
+      "hyp": "Danius he'i: Ko'ágã ndorojapói mba'eve. Ahenói ha amondo correo electrónico asistente hi'aguĩvéva ha roguereko respuesta cordial. Ko'ágã, ha'éva sin duda suficiente."
+    },
+    {
+      "src": "Con anterioridad, el director ejecutivo de Ring, Jamie Siminoff, mencionó que la compañía había iniciado a raíz de que el timbre de su entrada no podía oírse desde la tienda que tenía montada en su garaje.",
+      "ref": "Upe mboyvemi, Ring Mburuvicha, Jamie Siminoff, omombe'úkuri pe mba'apoha oñepyrũkuri upe hóga timbre noñehendúirõguare upe iñemuhágui imba'yru renda peve.",
+      "hyp": "Péicha, director ejecutivo Ring, Jamie Siminoff, imandu'a compañía omoñepyrũva timbre de su entrada ndikatúiva oñehendu tienda oimehápe montada garaje-pe."
+    },
+    {
+      "src": "Él dijo que construyó un timbre wifi.",
+      "ref": "Ha'e ojapo peteĩ timbre oikova wifi reheve, he'i kuri.",
+      "hyp": "Ha'e he'i omopu'ãha peteĩ timbre wifi."
+    },
+    {
+      "src": "Siminoff declaró que las ventas se dispararon luego de su aparición en un episodio de Shark Tank en el año 2013, en el que el panel del programa televisivo se negó a financiar la puesta en marcha de la compañía.",
+      "ref": "Siminoff he'íkuri pe ñemu ojupi tuicha ha'e osẽ rire Shark Tank episodio-pe 2013-pe, upépe umi show panel-pegua ombotovékuri ome'ẽ hag̃ua chupe pirapire oñepyrũ hag̃ua iñemuha.",
+      "hyp": "Siminoff he'i umi ventas opu'ã ojehecha rire peteĩ episodio Shark Tank ary 2013, panel programa televisivo ombotovéva ofinancia puesta en marcha empresa."
+    },
+    {
+      "src": "Hacia fines del año 2017, Siminoff hizo una aparición en el canal de compras televisadas QVC.",
+      "ref": "Upe 2017 pahape, Simminoff osẽ kuri canal QVC ñemuha reheguape.",
+      "hyp": "Ary 2017 pahápe, Siminoff osẽ canal de compras televisado QVC-pe."
+    },
+    {
+      "src": "Ring también llegó a un acuerdo en el litigio con la compañía de seguridad de la competencia, ADT Corporation.",
+      "ref": "Ring odemanda precesso avei pe mba'apoha seguridad pegua, Mba'apoha ADT.",
+      "hyp": "Ring oguahẽ acuerdo litigio compañía de seguridad competencia, ADT Corporation."
+    },
+    {
+      "src": "Al día de hoy no se ha demostrado a ciencia cierta que algún fármaco sea adecuado para tratar la infección existente causada por ébola, aun cuando existe una vacuna experimental que pareciera ser capaz de disminuir la mortalidad causada por esa enfermedad.",
+      "ref": "Jepérõ peteĩ vacuna de ensayo ha'ete omboguejýva pe ñemano Ebola rupive, ko'ágã peve, ni peteĩ poha ndohechaukaporãi kuri ikatuha oipohano pe infeccion.",
+      "hyp": "Ko'ag̃aite peve ndojehechakuaái oĩha peteĩ pohã iporãva oñepohano hag̃ua ko mba'asy, oĩramo jepe peteĩ vacuna oñeha'ãva ha ojoguáva ikatúva omboguejy umi omanóva ko mba'asýgui."
+    },
+    {
+      "src": "Zmapp, un combinado de anticuerpos, tuvo un prometedor resultado de campo al principio, pero estudios los formales demostraron que era menos beneficioso de lo que se esperaba para prevenir la muerte.",
+      "ref": "Peteĩ anticuerpo oñembojehe'ava, Zmapp, ñepyrũra ohechauka kuri oikotaha ko area pe, téra jeitypeka porãve ohechauka kuri oguerekoha sa'ive mba'e porã oñeha'ãrovaekuegui ojoko haguã ñemano.",
+      "hyp": "Zmapp, peteĩ combinación anticuerpo, oreko peteĩ resultado prometedor de campo iñepyrũme, pero umi estudio formal ohechaukáva ndaha'éi beneficioso oñeha'ãrõvagui ohapejoko haguã ñemano."
+    },
+    {
+      "src": "En el ensayo PALM, la función de Zmapp fue de control, es decir, que los científicos lo utilizaron como base y compararon con él los otros tres tratamientos.",
+      "ref": "PALM ñeha'ãpe, Zmapp ojepuru kuri controlra, pea he'ise hina umi cientifico kuera oipuru chupe linea de baserã ha oñembojoja kuri ambue mbohapy ñepohano rehe.",
+      "hyp": "Ko ensayo PALM-pe, Zmapp rembiapo ha'e control, he'iséva umi científico oiporu base ha ombojojávo hendive umi mbohapy tratamiento ambuéva."
+    },
+    {
+      "src": "USA Gymnastics respalda la nota del Comité Olímpico de los Estados Unidos y reconoce que resulta imperioso que la familia olímpica fomente un entorno seguro para todos nuestros deportistas.",
+      "ref": "Umi Gimnasta kuera Estados Unidos pegua ombojeko pe kuatia ñe'ẽ Comite Olimpico Estados Unidos mba'e ha omboaje pe ñeikotevẽ mbarete umi togaygua Olimpico opromociona haguã peteĩ tekoha isegurova opavave ñande atleta kuerape.",
+      "hyp": "USA Gymnastics omoañete nota Comité Olímpico Estados Unidos-gua ha ohechakuaa tekotevẽha familia olímpica omokyre'ỹ peteĩ entorno seguro opavave deportista-kuérape guarã."
+    },
+    {
+      "src": "Coincidimos con la declaración de la USOC de que los intereses de los atletas, los clubes y sus deportes, pueden ser atendidos más apropiadamente si se avanza con cambios significativos dentro de nuestra organización, en lugar del retiro de las certificaciones.",
+      "ref": "Ore roñe'ẽjoja upe USOC he'ivandive, ñande atleta ha club kuera interes, ha ideporte kuera, ikatu oñeñangareko porãve oñemboguatarõ moambue guasu ñande aty guasu pa'ũguive, ha ani haguã oiko pe jekuatia'o.",
+      "hyp": "Romoneĩ declaración USOC orekóva interés atleta, umi club ha deporte, ikatúva oñatende adecuadamente oñemotenondévo cambio significativo organización ryepýpe, ombotovéva certificación."
+    },
+    {
+      "src": "USA Gymnastics respalda a una investigación independiente que puede esclarecer de qué modo el abuso de la proporción que los sobrevivientes de Larry Nassa describieron con tanto coraje pudo haber pasado sin ser visto por tanto tiempo y acepta cualquier cambio necesario y adecuado.",
+      "ref": "Gimnasta Joaju Estados Unidos pegua ombojeko peteĩ jetypeka isãsova ha ikatuva omohesakã mba'éichapa umi abuso peichagua oñemombe'u kyhyje'ỹrete umi ohasa vaekue Larry Nassar ha ikatuva kuri ohasa ojeikuaa'ỹre areterei ha oañuava opaichagua ñeikotevẽva ha iporãva moambue kuera.",
+      "hyp": "USA Gymnastics omoañete peteĩ investigación independiente ikatúva omyesakã mba'éichapa pe abuso de la proporción ohasáva Larry Nassa omombe'úva py'aguasúpe ikatu ohasa ndojehecháiva heta tiempo ha omonéĩ oimeraẽ cambio oñeikotevẽva ha adecuado."
+    },
+    {
+      "src": "La meta de USA Gymnastics y USOC es la misma: lograr que la gimnasia y otros deportes sean lo más seguro posible para que los atletas persigan sus sueños en un entorno protegido, positivo y potenciado.",
+      "ref": "Gimnasta Joaju Estados Unidos pegua ha USOC oguereko peteĩ temimo'ã - tojejapo pe deporte gimnasta ha ambue kuera, añete ikatuháicha umi atleta kuerape guara oheka haguã ikerayvoty kuera peteĩ jeikoha añeteva, positivo ha oñemombareteva.",
+      "hyp": "Jehupytyvoirã USA Gymnastics ha USOC ha'e peteĩchaite: ohupyty haguã gimnasia ha ambue deporte ikatu haguã atleta omotenonde ikerayvoty peteĩ entorno protegido, positivo ha potenciado."
+    },
+    {
+      "src": "Durante los años 60, Brzezinski trabajó para John F. Kennedy en el puesto de asesor y, posteriormente, para el gobierno de Lyndon B. Johnson.",
+      "ref": "Upe 1960 kuerajave, Brzezinski omba'apo kuri John F. Kennedy ndive iconsehero ramo ha upei Lyndon B. Johnson administracion pe avei.",
+      "hyp": "Ary 1960-pe, Brzezinski omba'apo John F. Kennedy-pe asesor ramo ha upéi, Lyndon B. Johnson-pe g̃uarã."
+    },
+    {
+      "src": "Asesoró a Carter en materia de política exterior en las elecciones de 1976. Posteriormente, trabajó como asesor de seguridad nacional (ASN) entre 1977 y 1981, luego de Henry Kissinger.",
+      "ref": "Upe 1976 jeiporavo jave, ha'e oaconseja Carter pe tetã ambue kuera moñondiveha, ha upei oservi Consejero Segurida Nacional pe (NSA) 1977 guive 1981 peve, Henry Kissinger rendaguepe.",
+      "hyp": "Oipytyvõ akue Carter-pe política exterior rehegua ary 1976 jeporavo guasúpe. Upéi, omba'apo asesor de seguridad nacional (ASN) ramo ary 1977 guive 1981 peve, upéi Henry Kissinger-pe."
+    },
+    {
+      "src": "Como consejero de seguridad nacional, asistió a Carter en el manejo diplomático de asuntos internacionales, como los Acuerdos de Camp David de 1978, la normalización de las relaciones entre Estados Unidos y China a fines de la década de 1970, la Revolución iraní de 1979, la que llevó a una crisis de rehenes en Irán, y la invasión soviética en Afganistán, en 1979.",
+      "ref": "NSA pe, ha'e oipytyvõ Carter pe oñangarekovo upe tetãkuera moñondivepe, ha'eháicha upe Camp David ñemoĩ peteĩ ñe'ẽpe, 1978 pe; omoĩporã upe EE.UU. ha China moñondive upe 1970 paháirupi; Iran revolucion, ogueravaekue pe Iran crisi tapicha rehen rehegua, 1979 pe; ha upe Union Sovietica oikerõguare mbaretepe Afganistan pe, 1979 pe.",
+      "hyp": "Tetã ñeñangareko moakãhára ramo, oipytyvõva'ekue Carter-pe omyakã hag̃ua tetãnguéra ñemongu'e, ha'eháicha Acordos de Camp David ary 1978-pe, omyatyrõva'ekue joaju Tetãvore Joapykuéra ha China-pe ary 1970 pahápe, Revolución iraní ary 1979-pe, ogueraháva peteĩ apañuãi umi rehénape Irán-pe, ha invasión soviética Afganistán-pe, ary 1979-pe."
+    }
+  ],
+  "date": "2026-09-25T1153",
+  "component": "nmt",
+  "model": "models/e4",
+  "dataset": "flores",
+  "device": "cuda",
+  "limit": null
+}

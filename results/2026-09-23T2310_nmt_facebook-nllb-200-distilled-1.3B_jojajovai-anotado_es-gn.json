@@ -1,0 +1,140 @@
+{
+  "direction": "es-gn",
+  "n": 400,
+  "metrics": {
+    "chrf++": 45.0,
+    "bleu": 21.43,
+    "comet_orientativo": 0.6374,
+    "por_dialecto": {
+      "guarani": {
+        "chrf++": 39.63,
+        "bleu": 16.5,
+        "n": 287
+      },
+      "jehe'a": {
+        "chrf++": 43.26,
+        "bleu": 18.44,
+        "n": 43
+      },
+      "jopara": {
+        "chrf++": 58.6,
+        "bleu": 33.36,
+        "n": 63
+      },
+      "other": {
+        "chrf++": 22.52,
+        "bleu": 4.16,
+        "n": 7
+      }
+    }
+  },
+  "latency_s_per_item": 0.2001,
+  "samples": [
+    {
+      "src": "– Porque no quería casarme –le respondió sobre sus palabras–.",
+      "ref": "– Namendaséi haguére –ñe'ẽ ári ombohovái–.",
+      "hyp": "Ndoipotáigui omenda ombohovái chupe iñe'ẽ ."
+    },
+    {
+      "src": "En el análisis de las unidades terminológicas recogidas y en la traducción de nuevos términos, se tendrá en cuenta la funcionalidad de las distintas propuestas  .",
+      "ref": "Oñehesa'ỹijo jave ñe'ẽaty oñembyatýva ha oñemoñe'ẽasa jave ñe'ẽ pyahu, ojejesarekóta he'ípa hína upe he'iséva he'isehaichaite .",
+      "hyp": "Oñehesa'ỹijóvo umi ñe'ẽjoaju oĩva ha oñembohasávo umi ñe'ẽ pyahu, ojehecháta mba'éichapa omba'apo umi propuesta."
+    },
+    {
+      "src": "Términos y Condiciones",
+      "ref": "mba'éicha ha tekotevẽva",
+      "hyp": "Términos y condiciones rehegua"
+    },
+    {
+      "src": "qué pena.",
+      "ref": "py'apy",
+      "hyp": "Mba'e vaiete."
+    },
+    {
+      "src": "investigación",
+      "ref": "tembikuaareka",
+      "hyp": "jehapereka"
+    },
+    {
+      "src": "Completado",
+      "ref": "oĩmba",
+      "hyp": "Oñemohu'ã"
+    },
+    {
+      "src": "AUGUSTO ROA BASTOS estudió inicialmente en la Escuela República Argentina y luego ingresó al Colegio San José.",
+      "ref": "AUGUSTO ROA BASTOS oñemoarandu'ypýkuri Mitãmbo'ehao República Argentina-pe ha upéi oikékuri Mbo'ehao San José-pe.",
+      "hyp": "AUGUSTO ROA BASTOS oñemoarandu Escuela República Argentina-pe ha upéi oike Colegio San José-pe."
+    },
+    {
+      "src": "Durante la sesión también se consensuó elaborar un Plan Nacional de Fortalecimiento y Revalorización de las Lenguas Indígenas en el Paraguay, así como otras futuras acciones que favorecerán a las lenguas nativas.",
+      "ref": "Ko atýpe ojeguerojera avei ñe'ẽpeteĩme ojejapotaha apopyrã guasu rape hérava Plan Nacional de Fortalecimiento y Revalorización de las Lenguas Indígenas en el Paraguay, avei heta ambueve tembiaporã oykekokuaátava ypykuéra ñe'ẽita imbaretevévo ko'ẽ rei rehe.",
+      "hyp": "Ko atýpe oñomongeta avei mba'eichaitépa oñemombarete ha oñemombaretevéta ypykuéra ñe'ẽ Paraguáipe, ha mba'e mba'épa ojejapóta tenonderã."
+    },
+    {
+      "src": "Además de ellas conviven 19 lenguas indígenas con una presencia viva, en su propio hábitat, reconocidas como parte del patrimonio cultural de la Nación.",
+      "ref": "Ko'ãva ndive oikove añete avei 19 ypykuéra ñe'ẽ, ojepuru meméva hekoha rehekuéra, ha ojeporavóva avei chupekuéra ñane retã arandupy reheguaitéramo.",
+      "hyp": "Avei oĩ 19 ypykuéra ñe'ẽ oikovéva ijyvy apekuépe, ojehechakuaáva ñane retã rembiapokue ramo."
+    },
+    {
+      "src": "Él continuó viviendo en Augusta incluso después de los ataques.",
+      "ref": "Ha'e opyta oiko Augusta-pe upe ñembokapu riréjepe.",
+      "hyp": "Ha'e oikove Augusta-pe ataque rire jepe."
+    },
+    {
+      "src": "La actividad cultural .",
+      "ref": "Arandupy ñemboguata .",
+      "hyp": "Tembiapo arandupy rehegua ."
+    },
+    {
+      "src": "delito",
+      "ref": "tekoavy",
+      "hyp": "delito rehegua"
+    },
+    {
+      "src": "En guaraní existen los deícticos, elementos de cohesión que ubican la narración en el tiempo y en el espacio  .",
+      "ref": "Guaraníme oĩ umi techaukaha, tembiporumimi ombojoajúva ohóvo oñemba'emombe'úva araka'etépa ha mamópa ojehu pe oikóva .",
+      "hyp": "Guaraníme oĩ ñe'ẽpehẽtai mboyvegua, ha'éva umi mba'e ombojoajúva mombe'upy aravo ha tenda ryepýpe."
+    },
+    {
+      "src": "Aunque Georgia Arrúa y los parlamentarios de Patria Querida reiteraron que a Cubas debe reemplazarlo alguien de su partido.",
+      "ref": "Jepénte Georgia Arrúa ha umi parlamentario Patria Querida-gua he'i hikuái Cubas rekovia oikeva'erã pteĩ ipartidogua.",
+      "hyp": "Jepénte Georgia Arrúa ha parlamentario Patria Querida omoañete Cubas-pe omyengoviava'erã partido-gua."
+    },
+    {
+      "src": "La guardería está abierta todos los días para niños menores de cinco años solamente.",
+      "ref": "Upe mitã renda oipe'ã hokẽ opa ára mitã imitãvéva po arýguipe g̃uarã.",
+      "hyp": "Pe guardería ojepe'a ára ha ára mitãnguéra oguerekóva 5 ary peve añónte."
+    },
+    {
+      "src": "Reunión de trabajo de subcomisiones de lenguas indígenas.",
+      "ref": "Omba'apóta subcomisión-kuéra ypykuéra ñe'ẽita aty pegua.",
+      "hyp": "Ypykuéra Ñe'ẽita Rerekuapavẽ omba'apo joaju."
+    },
+    {
+      "src": "La actividad será mañana martes 9 de abril, a partir de las 08:00 hs., en el salón auditorio de la Gobernación de Misiones. Estará presidida por la ministra de la Secretaría de Políticas Lingüísticas (SPL), Ladislaa Alcaraz de Silvero..",
+      "ref": "Ko aty oikóta ág̃a ko'ẽrõ, 9 jasyrundýpe, 08:00 aravo guive, Misiones Gobernación koty guasúpe. Omoakãta Paraguái Ñe'ẽnguéra Sãmbyhyhára, Ladislaa Alcaraz de Silvero..",
+      "hyp": "Ko aty guasu oikóta ág̃a araapýpe, 9 jasyrundýpe, 08:00 aravo guive, Misiones Tavakuairetã kotýpe, omoakãta Paraguái Ñe'ẽnguéra Sãmbyhyhára (PÑS), Ladislaa Alcaraz de Silvero."
+    },
+    {
+      "src": "4 El Plan de Acción Global (GAP en inglés) de UNESCO El Plan de Acción Global de UNESCO fue lanzado en el 2014, está anclado en 4 temáticas principales (cambio climático, biodiversidad, reducción de los riesgos de desastre, y el consumo y producción sostenibles) .",
+      "ref": "4 Plan de Acción Global (inglés-pe GAP) UNESCO omongu'éva Plan de Acción Global UNESCO omboguata oúvo 2014 guive, 4 mba'épe oñemohendáva (cambio climático, biodiversidad, mba'evai jehapejoko, tembi'u ha producción) .",
+      "hyp": "4 Plan de Acción Global (GAP en inglés) UNESCO-pegua Plan de Acción Global UNESCO omoherakuãva'ekue ary 2014-pe, oñemopyenda 4 tema oñemomba'eguasúvape (cambio climático, biodiversidad, reducción de riesgos de desastre, ha consumo ha producción sostenible)."
+    },
+    {
+      "src": "Este convenio permitirá al Gabinete Social y a la SPL llevar a cabo un trabajo interinstitucional articulado, con especial énfasis en la documentación, promoción y difusión de la lengua guaraní, asesoramiento técnico-lingüístico, así como la realización de talleres, seminarios y otras iniciativas.",
+      "ref": "Ko tembiapo joaju rupive GS ha PÑS heta ogueroguatáta heta mba'e porã, taha'e guarani jepuru kuatiakuérape, térã ñe'ẽ jepurúpe ñepytyvõ, heta hendáicha.",
+      "hyp": "Ko ñe'ẽme'ẽ rupive, Gabinete Social ha PÑS omba'apo joajúta opaite temimoĩmby apytépe, oñemomba'eguasúvo guarani jehaipyre, ñemyasãi ha ñemyasãi, ñe'ẽtekuaa ha ñe'ẽnguéra rehe ñomongeta, amandaje ha ambueve mba'e."
+    },
+    {
+      "src": "él vive en marruecos.",
+      "ref": "ha'e oiko marruecos-pe",
+      "hyp": "Ha'e oiko Marruéko-pe."
+    }
+  ],
+  "date": "2026-09-23T2310",
+  "component": "nmt",
+  "model": "facebook/nllb-200-distilled-1.3B",
+  "dataset": "jojajovai-anotado",
+  "device": "cuda",
+  "limit": null
+}

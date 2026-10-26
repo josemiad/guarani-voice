@@ -1,0 +1,140 @@
+{
+  "direction": "gn-es",
+  "n": 400,
+  "metrics": {
+    "chrf++": 50.51,
+    "bleu": 30.75,
+    "comet": 0.7165,
+    "por_dialecto": {
+      "guarani": {
+        "chrf++": 42.14,
+        "bleu": 22.92,
+        "n": 287
+      },
+      "jehe'a": {
+        "chrf++": 52.14,
+        "bleu": 30.93,
+        "n": 43
+      },
+      "jopara": {
+        "chrf++": 64.8,
+        "bleu": 43.3,
+        "n": 63
+      },
+      "other": {
+        "chrf++": 66.52,
+        "bleu": 49.94,
+        "n": 7
+      }
+    }
+  },
+  "latency_s_per_item": 0.1892,
+  "samples": [
+    {
+      "src": "– Namendaséi haguére –ñe'ẽ ári ombohovái–.",
+      "ref": "– Porque no quería casarme –le respondió sobre sus palabras–.",
+      "hyp": " Por no casarse respondió verbalmente."
+    },
+    {
+      "src": "Oñehesaꞌỹijo jave ñeꞌẽaty oñembyatýva ha oñemoñeꞌẽasa jave ñeꞌẽ pyahu, ojejesarekóta heꞌípa hína upe heꞌiséva heꞌisehaichaite  .",
+      "ref": "En el análisis de las unidades terminológicas recogidas y en la traducción de nuevos términos, se tendrá en cuenta la funcionalidad de las distintas propuestas  .",
+      "hyp": "En el análisis del vocabulario acumulado y en la traducción de un nuevo lenguaje, se observa la exactitud del significado ."
+    },
+    {
+      "src": "mba'éicha ha tekotevẽva",
+      "ref": "Términos y Condiciones",
+      "hyp": "modalidad y necesidad"
+    },
+    {
+      "src": "py'apy",
+      "ref": "qué pena.",
+      "hyp": "ansiedad"
+    },
+    {
+      "src": "tembikuaareka",
+      "ref": "investigación",
+      "hyp": "Investigación"
+    },
+    {
+      "src": "oĩmba",
+      "ref": "Completado",
+      "hyp": "está disponible"
+    },
+    {
+      "src": "AUGUSTO ROA BASTOS oñemoarandu'ypýkuri Mitâmbo'ehao República Argentina-pe ha upéi oikékuri Mbo'ehao San José-pe.",
+      "ref": "AUGUSTO ROA BASTOS estudió inicialmente en la Escuela República Argentina y luego ingresó al Colegio San José.",
+      "hyp": "AUGUSTO ROA BASTOS estudió primero en la Escuela de la República Argentina y luego en la Universidad de San José."
+    },
+    {
+      "src": "Ko atýpe ojeguerojera avei ñe’ẽpeteĩme ojejapotaha apopyrã guasu rape hérava Plan Nacional de Fortalecimiento y Revalorización de las Lenguas Indígenas en el Paraguay, avei heta ambueve tembiaporã oykekokuaátava ypykuéra ñe’ẽita imbaretevévo ko’ẽ rei rehe.",
+      "ref": "Durante la sesión también se consensuó elaborar un Plan Nacional de Fortalecimiento y Revalorización de las Lenguas Indígenas en el Paraguay, así como otras futuras acciones que favorecerán a las lenguas nativas.",
+      "hyp": "En la reunión se acordó la implementación del Plan Nacional de Fortalecimiento y Revalorización de las Lenguas Indígenas en el Paraguay, así como otras acciones para apoyar el fortalecimiento de las lenguas indígenas."
+    },
+    {
+      "src": "Ko’ãva ndive oikove añete avei 19 ypykuéra ñe’ẽ, ojepuru meméva hekoha rehekuéra, ha ojeporavóva avei chupekuéra ñane retã arandupy reheguaitéramo.",
+      "ref": "Además de ellas conviven 19 lenguas indígenas con una presencia viva, en su propio hábitat, reconocidas como parte del patrimonio cultural de la Nación.",
+      "hyp": "Al mismo tiempo, existen 19 lenguas indígenas, que son habladas en sus entornos habituales, y que son reconocidas como parte de la cultura nacional."
+    },
+    {
+      "src": "Ha'e opyta oiko Augusta-pe upe ñembokapu riréjepe.",
+      "ref": "Él continuó viviendo en Augusta incluso después de los ataques.",
+      "hyp": "Ella se quedó viviendo en Augusta después del golpe."
+    },
+    {
+      "src": "Arandupy ñemboguata .",
+      "ref": "La actividad cultural .",
+      "hyp": "Desarrollo cultural ."
+    },
+    {
+      "src": "tekoavy",
+      "ref": "delito",
+      "hyp": "Error"
+    },
+    {
+      "src": "Guaraníme oĩ umi techaukaha, tembiporumimi ombojoajúva ohóvo oñembaꞌemombeꞌúva arakaꞌetépa ha mamópa ojehu pe oikóva  .",
+      "ref": "En guaraní existen los deícticos, elementos de cohesión que ubican la narración en el tiempo y en el espacio  .",
+      "hyp": "En la lengua guaraní se utilizan indicadores, herramientas de interconexión que permiten identificar cuándo y dónde ocurren los hechos ."
+    },
+    {
+      "src": "Jepénte Georgia Arrúa ha umi parlamentario Patria Querida-gua he’i hikuái Cubas rekovia oikeva’erã pteî ipartidogua.",
+      "ref": "Aunque Georgia Arrúa y los parlamentarios de Patria Querida reiteraron que a Cubas debe reemplazarlo alguien de su partido.",
+      "hyp": "Sin embargo, Georgia Arrúa y otros parlamentarios de la Patria Querida dijeron que el reemplazo de Cubas debería incluir a cada uno de sus miembros."
+    },
+    {
+      "src": "Upe mitâ renda oipe'â hokê opa ára mitâ imitâvéva po arýguipe ĝuarâ.",
+      "ref": "La guardería está abierta todos los días para niños menores de cinco años solamente.",
+      "hyp": "El centro infantil abre sus puertas todos los días para niños menores de cinco años."
+    },
+    {
+      "src": "Omba’apóta subcomisión-kuéra ypykuéra ñe’ẽita aty pegua.",
+      "ref": "Reunión de trabajo de subcomisiones de lenguas indígenas.",
+      "hyp": "Trabajará en las subcomisiones de comunidades de lenguas indígenas."
+    },
+    {
+      "src": "Ko aty oikóta ág̃a ko’ẽrõ, 9 jasyrundýpe, 08:00 aravo guive, Misiones Gobernación koty guasúpe. Omoakãta Paraguái Ñe’ẽnguéra Sãmbyhyhára, Ladislaa Alcaraz de Silvero..",
+      "ref": "La actividad será mañana martes 9 de abril, a partir de las 08:00 hs., en el salón auditorio de la Gobernación de Misiones. Estará presidida por la ministra de la Secretaría de Políticas Lingüísticas (SPL), Ladislaa Alcaraz de Silvero..",
+      "hyp": "El evento se realizará mañana, 9 de abril, a partir de las 08:00 horas, en el salón de actos de la Gobernación de Misiones. La ministra de la Secretaría de Políticas Lingüísticas, Ladislaa Alcaraz de Silvero.."
+    },
+    {
+      "src": "4 Plan de Acción Global (inglés-pe GAP) UNESCO omongu’éva Plan de Acción Global UNESCO omboguata oúvo 2014 guive, 4 mba’épe oñemohendáva (cambio climático, biodiversidad, mba’evai jehapejoko, tembi’u ha producción) .",
+      "ref": "4 El Plan de Acción Global (GAP en inglés) de UNESCO El Plan de Acción Global de UNESCO fue lanzado en el 2014, está anclado en 4 temáticas principales (cambio climático, biodiversidad, reducción de los riesgos de desastre, y el consumo y producción sostenibles) .",
+      "hyp": "4 Planes de Acción Global (en inglés GAP) La UNESCO desarrolló el Plan de Acción Global de la UNESCO desde 2014, en cuatro ámbitos (cambio climático, biodiversidad, prevención de desastres, alimentación y producción) ."
+    },
+    {
+      "src": "Ko tembiapo joaju rupive GS ha PÑS heta ogueroguatáta heta mba’e porã, taha’e guarani jepuru kuatiakuérape, térã ñe’ẽ jepurúpe ñepytyvõ, heta hendáicha.",
+      "ref": "Este convenio permitirá al Gabinete Social y a la SPL llevar a cabo un trabajo interinstitucional articulado, con especial énfasis en la documentación, promoción y difusión de la lengua guaraní, asesoramiento técnico-lingüístico, así como la realización de talleres, seminarios y otras iniciativas.",
+      "hyp": "La colaboración entre la GS y la SPL dará lugar a importantes avances en materia de normalización de la lengua guaraní, así como en el apoyo a la normalización lingũística, en diversos ámbitos."
+    },
+    {
+      "src": "ha'e oiko marruecos-pe",
+      "ref": "él vive en marruecos.",
+      "hyp": "él vive en marruecos"
+    }
+  ],
+  "date": "2026-09-24T1759",
+  "component": "nmt",
+  "model": "models/e1",
+  "dataset": "jojajovai-anotado",
+  "device": "cuda",
+  "limit": null
+}

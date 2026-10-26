@@ -1,0 +1,118 @@
+{
+  "direction": "gn-es",
+  "n": 1012,
+  "metrics": {
+    "chrf++": 40.32,
+    "bleu": 16.0,
+    "comet": 0.6885
+  },
+  "latency_s_per_item": 0.1148,
+  "samples": [
+    {
+      "src": "\"Ko'ãga roguereko anguja oguerekova 4-jasy ary ha ndoguerekói tuguy azuka, ha oguereko kuri tuguy azuka\", he'i ha'e.",
+      "ref": "«Actualmente, tenemos ratones de cuatro meses de edad que antes solían ser diabéticos y que ya no lo son», agregó.",
+      "hyp": "\"Ahora tenemos un ratón de 4 meses de edad que no tiene sangre azul, pero tenía sangre azul\", indicó."
+    },
+    {
+      "src": "Dr. Ehud Ur, mbo'ehara medicina pegua Mbo'eha Guasu Dalhousie Halifax pe, Nueva Escocia pe, ha mburuvicha pe division clinico ha cientifico pe Joaju Canadiense Tuguy Azuka regua pe, he'i kuri pe tapykueho oimeha iñepyrũhaitepe gueteri.",
+      "ref": "La investigación todavía se ubica en su etapa inicial, conforme indicara el Dr. Ehud Ur, docente en la carrera de medicina de la Universidad de Dalhousie, en Halifax, Nueva Escocia, y director del departamento clínico y científico de la Asociación Canadiense de Diabetes.",
+      "hyp": "El Dr. Ehud Ur, profesor de medicina de la Universidad Dalhousie de Halifax, Nueva Escocia, y jefe de la división clínica y científica de la Asociación Canadiense de Sangre Azul, dijo que el retraso está en sus inicios."
+    },
+    {
+      "src": "Umi ambue expertoicha avei, ha'e ndogueroviái pe tuguy azuka ikatuha oñemonguera, ha oikuaauka ko ojuhúva ndoguerekoiha importancia umi avakuérape oguerekóma vaekue Tuguy Azuka tipo I-pe g̃uarã.",
+      "ref": "Al igual que otros especialistas, es escéptico acerca de si la diabetes tiene cura y remarca que estos descubrimientos no son relevantes para quienes que ya padecen de diabetes de tipo 1.",
+      "hyp": "Al igual que otros expertos, él no cree que la sangre azul sea curable, y señaló que este hallazgo no tiene importancia para los pacientes que ya tenían sangre azul tipo I."
+    },
+    {
+      "src": "Arakõipe, Sara Danius, secretaria permanente Comité Nobel Ñe'ẽporãhaipyrepe upe Academia Sueca pe, oikuauka kuri publicamente peteĩ radio programa jave upe Radio Sveriges pe, Suecia pe, upe comité ndaikatúigui oñe'ẽ Karai Bob Dylan ndive omombe'u haguã chupe ogana hague pe Premio Nobel Ñe'ẽporãhaipyrepe 2016 pegua, ohejama kuri pe ñeha'ã oñe'ẽ haguã hendive.",
+      "ref": "El lunes, Sara Danius, secretaria permanente del Comité por el Nobel de Literatura de la Academia Sueca, declaró públicamente en un programa radiofónico de Sveriges, en Suecia, que, al no poder contactar directamente con Bob Dylan para comunicarle el premio en Literatura 2016, el comité había abandonado sus esfuerzos por comunicarse con él.",
+      "hyp": "El lunes, Sara Danius, secretaria permanente del Comité Nobel de Literatura de la Academia Sueca, anunció públicamente en un programa de radio de Radio Sveriges, en Suecia, que debido a que el comité no pudo comunicarse con Bob Dylan para anunciarle que había ganado el Premio Nobel de Literatura 2016."
+    },
+    {
+      "src": "Danius omomarandu kuri \"Ko'agãite ndorojapói mba'eve hina. Ahenoi ha amondo correo kuri umi icolaborador kuera pe ha oguahẽ cheve ñembohovái angirũ portepe. Ko'agã upea pee mante.",
+      "ref": "Danius declaró: «Actualmente no estamos haciendo nada. Llamé y envié correos electrónicos a su asistente más cercano y recibí contestaciones muy cordiales. Por el momento, eso es sin dudas suficiente».",
+      "hyp": "Danius informó que \"hasta ahora no hemos hecho nada. Llamé y envié un correo a los colaboradores y recibí la respuesta de un amigo. Hasta ahora no he hecho nada."
+    },
+    {
+      "src": "Upe mboyvemi, Ring Mburuvicha, Jamie Siminoff, omombe'úkuri pe mba'apoha oñepyrũkuri upe hóga timbre noñehendúirõguare upe iñemuhágui imba'yru renda peve.",
+      "ref": "Con anterioridad, el director ejecutivo de Ring, Jamie Siminoff, mencionó que la compañía había iniciado a raíz de que el timbre de su entrada no podía oírse desde la tienda que tenía montada en su garaje.",
+      "hyp": "Antes, el Presidente del Ring, Jamie Siminoff, comentó que el trabajo se inició cuando el timbre de su casa no se escuchó desde su oficina hasta su lugar de trabajo."
+    },
+    {
+      "src": "Ha'e ojapo peteĩ timbre oikova wifi reheve, he'i kuri.",
+      "ref": "Él dijo que construyó un timbre wifi.",
+      "hyp": "Él hizo un timbre que funciona con wifi, dijo."
+    },
+    {
+      "src": "Siminoff he'íkuri pe ñemu ojupi tuicha ha'e osẽ rire Shark Tank episodio-pe 2013-pe, upépe umi show panel-pegua ombotovékuri ome'ẽ hag̃ua chupe pirapire oñepyrũ hag̃ua iñemuha.",
+      "ref": "Siminoff declaró que las ventas se dispararon luego de su aparición en un episodio de Shark Tank en el año 2013, en el que el panel del programa televisivo se negó a financiar la puesta en marcha de la compañía.",
+      "hyp": "Siminoff dijo que su negocio creció mucho después de que apareciera en un episodio de Shark Tank en 2013, en el que los miembros del panel del show le negaron dinero para comenzar su propio negocio."
+    },
+    {
+      "src": "Upe 2017 pahape, Simminoff osẽ kuri canal QVC ñemuha reheguape.",
+      "ref": "Hacia fines del año 2017, Siminoff hizo una aparición en el canal de compras televisadas QVC.",
+      "hyp": "A finales de 2017, Simminoff apareció en el canal comercial QVC."
+    },
+    {
+      "src": "Ring odemanda precesso avei pe mba'apoha seguridad pegua, Mba'apoha ADT.",
+      "ref": "Ring también llegó a un acuerdo en el litigio con la compañía de seguridad de la competencia, ADT Corporation.",
+      "hyp": "Ring también solicitó el preceso del departamento de seguridad, Departamento de ADT."
+    },
+    {
+      "src": "Jepérõ peteĩ vacuna de ensayo ha'ete omboguejýva pe ñemano Ebola rupive, ko'ágã peve, ni peteĩ poha ndohechaukaporãi kuri ikatuha oipohano pe infeccion.",
+      "ref": "Al día de hoy no se ha demostrado a ciencia cierta que algún fármaco sea adecuado para tratar la infección existente causada por ébola, aun cuando existe una vacuna experimental que pareciera ser capaz de disminuir la mortalidad causada por esa enfermedad.",
+      "hyp": "Aunque una vacuna de ensayo parece haber reducido la mortalidad por el Ébola, hasta el momento, ni una sola ha demostrado ser capaz de curar la infección."
+    },
+    {
+      "src": "Peteĩ anticuerpo oñembojehe'ava, Zmapp, ñepyrũra ohechauka kuri oikotaha ko area pe, téra jeitypeka porãve ohechauka kuri oguerekoha sa'ive mba'e porã oñeha'ãrovaekuegui ojoko haguã ñemano.",
+      "ref": "Zmapp, un combinado de anticuerpos, tuvo un prometedor resultado de campo al principio, pero estudios los formales demostraron que era menos beneficioso de lo que se esperaba para prevenir la muerte.",
+      "hyp": "Un anticuerpo descubierto, el Zmapp, había demostrado inicialmente que se desarrollaría en esa área, pero un análisis más detallado mostró que tenía menos beneficios que los esperados para prevenir la muerte."
+    },
+    {
+      "src": "PALM ñeha'ãpe, Zmapp ojepuru kuri controlra, pea he'ise hina umi cientifico kuera oipuru chupe linea de baserã ha oñembojoja kuri ambue mbohapy ñepohano rehe.",
+      "ref": "En el ensayo PALM, la función de Zmapp fue de control, es decir, que los científicos lo utilizaron como base y compararon con él los otros tres tratamientos.",
+      "hyp": "En el experimento de PALM, Zmapp fue utilizado como controlador, lo que significa que los científicos lo utilizaron como línea de base y lo compararon con otros tres tratamientos."
+    },
+    {
+      "src": "Umi Gimnasta kuera Estados Unidos pegua ombojeko pe kuatia ñe'ẽ Comite Olimpico Estados Unidos mba'e ha omboaje pe ñeikotevẽ mbarete umi togaygua Olimpico opromociona haguã peteĩ tekoha isegurova opavave ñande atleta kuerape.",
+      "ref": "USA Gymnastics respalda la nota del Comité Olímpico de los Estados Unidos y reconoce que resulta imperioso que la familia olímpica fomente un entorno seguro para todos nuestros deportistas.",
+      "hyp": "Gimnastas de los Estados Unidos compartieron el comunicado del Comité Olímpico de los Estados Unidos y expresaron la necesidad de que la familia Olímpico promueva un entorno seguro para todos los atletas."
+    },
+    {
+      "src": "Ore roñe'ẽjoja upe USOC he'ivandive, ñande atleta ha club kuera interes, ha ideporte kuera, ikatu oñeñangareko porãve oñemboguatarõ moambue guasu ñande aty guasu pa'ũguive, ha ani haguã oiko pe jekuatia'o.",
+      "ref": "Coincidimos con la declaración de la USOC de que los intereses de los atletas, los clubes y sus deportes, pueden ser atendidos más apropiadamente si se avanza con cambios significativos dentro de nuestra organización, en lugar del retiro de las certificaciones.",
+      "hyp": "Estamos convencidos de que, según el USOC, los atletas y los intereses de los clubes, y de sus deportes, pueden ser mejor atendidos si se realiza un cambio radical en el espacio de la organización, y se evita que se produzca la corrupción."
+    },
+    {
+      "src": "Gimnasta Joaju Estados Unidos pegua ombojeko peteĩ jetypeka isãsova ha ikatuva omohesakã mba'éichapa umi abuso peichagua oñemombe'u kyhyje'ỹrete umi ohasa vaekue Larry Nassar ha ikatuva kuri ohasa ojeikuaa'ỹre areterei ha oañuava opaichagua ñeikotevẽva ha iporãva moambue kuera.",
+      "ref": "USA Gymnastics respalda a una investigación independiente que puede esclarecer de qué modo el abuso de la proporción que los sobrevivientes de Larry Nassa describieron con tanto coraje pudo haber pasado sin ser visto por tanto tiempo y acepta cualquier cambio necesario y adecuado.",
+      "hyp": "La Asociación de Gimnastas de los Estados Unidos propone una investigación independiente que permita explicar cómo los abusos como el de Larry Nassar fueron denunciados sin temor a ser denunciados y que podrían haber pasado en la ignorancia durante largos períodos de tiempo y que repudiaran la necesidad de un cambio positivo."
+    },
+    {
+      "src": "Gimnasta Joaju Estados Unidos pegua ha USOC oguereko peteĩ temimo'ã - tojejapo pe deporte gimnasta ha ambue kuera, añete ikatuháicha umi atleta kuerape guara oheka haguã ikerayvoty kuera peteĩ jeikoha añeteva, positivo ha oñemombareteva.",
+      "ref": "La meta de USA Gymnastics y USOC es la misma: lograr que la gimnasia y otros deportes sean lo más seguro posible para que los atletas persigan sus sueños en un entorno protegido, positivo y potenciado.",
+      "hyp": "La Federación de Gimnastas de los Estados Unidos y el USOC tienen una idea común - hacer que el deporte de las gimnastas y demás personas, sea lo más real posible para que los atletas puedan perseguir sus sueños de una vida real, positiva y enriquecedora."
+    },
+    {
+      "src": "Upe 1960 kuerajave, Brzezinski omba'apo kuri John F. Kennedy ndive iconsehero ramo ha upei Lyndon B. Johnson administracion pe avei.",
+      "ref": "Durante los años 60, Brzezinski trabajó para John F. Kennedy en el puesto de asesor y, posteriormente, para el gobierno de Lyndon B. Johnson.",
+      "hyp": "En la década de 1960, Brzezinski trabajó para John F. Kennedy como iconoclastra y luego en la administración de Lyndon B. Johnson."
+    },
+    {
+      "src": "Upe 1976 jeiporavo jave, ha'e oaconseja Carter pe tetã ambue kuera moñondiveha, ha upei oservi Consejero Segurida Nacional pe (NSA) 1977 guive 1981 peve, Henry Kissinger rendaguepe.",
+      "ref": "Asesoró a Carter en materia de política exterior en las elecciones de 1976. Posteriormente, trabajó como asesor de seguridad nacional (ASN) entre 1977 y 1981, luego de Henry Kissinger.",
+      "hyp": "Durante las elecciones de 1976, fue asesor de Carter en la política exterior, y luego sirvió como Consejero de la Seguridad Nacional (NSA) de 1977 a 1981, en reemplazo de Henry Kissinger."
+    },
+    {
+      "src": "NSA pe, ha'e oipytyvõ Carter pe oñangarekovo upe tetãkuera moñondivepe, ha'eháicha upe Camp David ñemoĩ peteĩ ñe'ẽpe, 1978 pe; omoĩporã upe EE.UU. ha China  moñondive upe 1970 paháirupi; Iran revolucion, ogueravaekue pe Iran crisi tapicha rehen rehegua, 1979 pe; ha upe Union Sovietica oikerõguare mbaretepe Afganistan pe, 1979 pe.",
+      "ref": "Como consejero de seguridad nacional, asistió a Carter en el manejo diplomático de asuntos internacionales, como los Acuerdos de Camp David de 1978, la normalización de las relaciones entre Estados Unidos y China a fines de la década de 1970, la Revolución iraní de 1979, la que llevó a una crisis de rehenes en Irán, y la invasión soviética en Afganistán, en 1979.",
+      "hyp": "La NSA, por su parte, ayudó a Carter a mantener la seguridad nacional, como en el acuerdo de Camp David, en 1978; la cooperación entre EE.UU. y China a finales de 1970; la revolución iraní, que provocó la crisis de rehenes en Irán, en 1979; y la invasión de la Unión Soviética en Afganistán, en 1979."
+    }
+  ],
+  "date": "2026-09-24T1754",
+  "component": "nmt",
+  "model": "models/e1",
+  "dataset": "flores",
+  "device": "cuda",
+  "limit": null
+}

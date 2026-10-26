@@ -1,0 +1,38 @@
+[project]
+name = "guanani"
+version = "0.1.0"
+license = "Unlicense"
+requires-python = ">=3.11,<3.14"  # unbabel-comet usa functools._HashedSeq, eliminado en 3.14
+dependencies = [
+  "torch>=2.4",
+  "transformers>=4.56",
+  "sentencepiece",
+  "librosa>=0.10",
+  "soundfile",
+  "sacrebleu>=2.4",
+  "jiwer>=3.0",
+  "unbabel-comet>=2.2",
+  "huggingface_hub>=0.34",
+  "peft>=0.17",
+  "accelerate>=1.0",
+  "pyarrow",
+  "fasttext-wheel>=0.9.2",
+  "piper-tts==1.8.0",  # inferencia de voces Piper (ONNX)
+  "torchaudio==2.11.0",  # UTMOS (evaluación TTS); última versión publicada, sin fijar torch
+  "setuptools<81",  # unbabel-comet fija torchmetrics<0.11, que importa pkg_resources
+]
+
+[project.scripts]
+guanani = "guanani.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.pytest.ini_options]
+markers = ["slow: carga modelos reales (descarga GB, lento)"]
+addopts = "-m 'not slow'"
+testpaths = ["tests"]

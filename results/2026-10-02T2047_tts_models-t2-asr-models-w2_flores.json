@@ -1,0 +1,100 @@
+{
+  "n": 200,
+  "asr_model": "models/w2",
+  "audio_dir": "results/audio/2026-10-02T2047_models-t2",
+  "metrics": {
+    "roundtrip_wer": 0.5646,
+    "roundtrip_cer": 0.1475,
+    "roundtrip_empty_refs": 0,
+    "utmos": 2.553
+  },
+  "rtf": 0.0245,
+  "samples": [
+    {
+      "text": "\"Ko'ãga roguereko anguja oguerekova 4-jasy ary ha ndoguerekói tuguy azuka, ha oguereko kuri tuguy azuka\", he'i ha'e.",
+      "asr": "Ko'áva roguereko aoja oguerekóva jasy ary ha ndoguerekói tugui asuka ha oguerekókuri tugui asuka he'i ha'e."
+    },
+    {
+      "text": "Dr. Ehud Ur, mbo'ehara medicina pegua Mbo'eha Guasu Dalhousie Halifax pe, Nueva Escocia pe, ha mburuvicha pe division clinico ha cientifico pe Joaju Canadiense Tuguy Azuka regua pe, he'i kuri pe tapykueho oimeha iñepyrũhaitepe gueteri.",
+      "asr": "y'ehu mbo'eharaméi sinapegua mbo'eha guasu Dalho che aliha pe nueva Escocciape amburuvícha pe División héniko ha cientíhiko pejoaju Canadiensetuguy Asukaregua pe he'íkuri pe tapykue ho oimeha iñepyrũ ha itepegueteri."
+    },
+    {
+      "text": "Umi ambue expertoicha avei, ha'e ndogueroviái pe tuguy azuka ikatuha oñemonguera, ha oikuaauka ko ojuhúva ndoguerekoiha importancia umi avakuérape oguerekóma vaekue Tuguy Azuka tipo I-pe g̃uarã.",
+      "asr": "Umi ambue epetuicha avei ha'e ndogueroviái petugui asuka ikatuha oñemonguera ha oikuaaukáko ojuhúva ndoguereko iha importancia umi avakuérape oguerekómava'ekue petugui asuka tipo ipéi g̃uarã."
+    },
+    {
+      "text": "Arakõipe, Sara Danius, secretaria permanente Comité Nobel Ñe'ẽporãhaipyrepe upe Academia Sueca pe, oikuauka kuri publicamente peteĩ radio programa jave upe Radio Sveriges pe, Suecia pe, upe comité ndaikatúigui oñe'ẽ Karai Bob Dylan ndive omombe'u haguã chupe ogana hague pe Premio Nobel Ñe'ẽporãhaipyrepe 2016 pegua, ohejama kuri pe ñeha'ã oñe'ẽ haguã hendive.",
+      "asr": "Arakóipe Charaka News, Secretaria Permanente Comite ndove ñe'ẽporãhaipyrepe upe akademi asoikápe oikuaaukákuri publicamente peteĩ radio-programa jave upe Radio Ferirepe soichépe upe Comite ndaikatúigui oñe'ẽkaraívo ydyra ndive mombe'u hag̃ua chupe oganahaguépe premívo ndove ñe'ẽporãhaipyrepe upegua"
+    },
+    {
+      "text": "Danius omomarandu kuri \"Ko'agãite ndorojapói mba'eve hina. Ahenoi ha amondo correo kuri umi icolaborador kuera pe ha oguahẽ cheve ñembohovái angirũ portepe. Ko'agã upea pee mante.",
+      "asr": "Planíso omomarandúkuri ko'ag̃aite ndorojapói mba'evehína ahenói ha amondokorévókuri umi iko laborado-ekuérape ha oguahe chéve ñembohovái angirũ portepe ko'ag̃a upévape mante."
+    },
+    {
+      "text": "Upe mboyvemi, Ring Mburuvicha, Jamie Siminoff, omombe'úkuri pe mba'apoha oñepyrũkuri upe hóga timbre noñehendúirõguare upe iñemuhágui imba'yru renda peve.",
+      "asr": "upe mboyvemi rindumburuvicha jami esĩ Minoso omombe'úkuri pe mba'apo ha oñepyrũkuri upe hóga imbre noñehendúi roguare upe iñemohágui imba'yru renda peve."
+    },
+    {
+      "text": "Ha'e ojapo peteĩ timbre oikova wifi reheve, he'i kuri.",
+      "asr": "Ha'e ojapo peteĩ timbre oikóva richi reheve he'íkuri."
+    },
+    {
+      "text": "Siminoff he'íkuri pe ñemu ojupi tuicha ha'e osẽ rire Shark Tank episodio-pe 2013-pe, upépe umi show panel-pegua ombotovékuri ome'ẽ hag̃ua chupe pirapire oñepyrũ hag̃ua iñemuha.",
+      "asr": "Chimi inoso he'íkuri pe ñemo ojupi tuicha ha'e osẽ rire Charta Episodio peve upépe umíva upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe upe"
+    },
+    {
+      "text": "Upe 2017 pahape, Simminoff osẽ kuri canal QVC ñemuha reheguape.",
+      "asr": "upe paha pe simi noso'osẽkuri canal heñemuha reheguápe"
+    },
+    {
+      "text": "Ring odemanda precesso avei pe mba'apoha seguridad pegua, Mba'apoha ADT.",
+      "asr": "Rindove mandapese so'aveípe mba'apohaseguirirapegua mba'apoha ave."
+    },
+    {
+      "text": "Jepérõ peteĩ vacuna de ensayo ha'ete omboguejýva pe ñemano Ebola rupive, ko'ágã peve, ni peteĩ poha ndohechaukaporãi kuri ikatuha oipohano pe infeccion.",
+      "asr": "jepérõ peteĩ vapuna ne'ẽsado ha'ete omboguejývape ñemano ebola rupive ko ága peve ni peteĩ pohã ndohechauka porãikuri ikatuha oipohánope ingesión"
+    },
+    {
+      "text": "Peteĩ anticuerpo oñembojehe'ava, Zmapp, ñepyrũra ohechauka kuri oikotaha ko area pe, téra jeitypeka porãve ohechauka kuri oguerekoha sa'ive mba'e porã oñeha'ãrovaekuegui ojoko haguã ñemano.",
+      "asr": "peteĩ andi cuerpo oñembojehe'ava mba'e ñepyrũra ohechaukákuri oikota'aha ko'aré ape téra jeitypeka porãve ohechaukákuri oguerekohasa'ive mba'e porã oñeha'ãrõva'ekuegui ojoko hag̃ua ñemano."
+    },
+    {
+      "text": "PALM ñeha'ãpe, Zmapp ojepuru kuri controlra, pea he'ise hina umi cientifico kuera oipuru chupe linea de baserã ha oñembojoja kuri ambue mbohapy ñepohano rehe.",
+      "asr": "Pañeha'ãpe ma'upy ojepurúkuri ko terorã. Tea he'isehína umi chéntichiko kuera oipuru chupe linea devasea ha oñembojojákuri ambue mbohapy ñepohãnorehe."
+    },
+    {
+      "text": "Umi Gimnasta kuera Estados Unidos pegua ombojeko pe kuatia ñe'ẽ Comite Olimpico Estados Unidos mba'e ha omboaje pe ñeikotevẽ mbarete umi togaygua Olimpico opromociona haguã peteĩ tekoha isegurova opavave ñande atleta kuerape.",
+      "asr": "Umi gimnastakuéra Estados Unidospegua ombojeko pe kuatia ñe'ẽ komite olimbiko Estados Unidos mba'e ha ombojépe ñaikotevẽ mbarete umi togaygua olimbiko opa omociona hag̃ua peteĩ tekoha isegurova opavavépe ñande atrieta kuérape."
+    },
+    {
+      "text": "Ore roñe'ẽjoja upe USOC he'ivandive, ñande atleta ha club kuera interes, ha ideporte kuera, ikatu oñeñangareko porãve oñemboguatarõ moambue guasu ñande aty guasu pa'ũguive, ha ani haguã oiko pe jekuatia'o.",
+      "asr": "Orérono ñe'ẽ joja upe uso he'íva ndive ñande atieta hakyvukuéra interes ha ijeportekuéra ikatu oñeñangareko porã ave oñemboguataramo ambue guasu ñande aty guasu pa'u guive ha ani hag̃ua oiko pejekuatea'o."
+    },
+    {
+      "text": "Gimnasta Joaju Estados Unidos pegua ombojeko peteĩ jetypeka isãsova ha ikatuva omohesakã mba'éichapa umi abuso peichagua oñemombe'u kyhyje'ỹrete umi ohasa vaekue Larry Nassar ha ikatuva kuri ohasa ojeikuaa'ỹre areterei ha oañuava opaichagua ñeikotevẽva ha iporãva moambue kuera.",
+      "asr": "Inanasta, joaju, rey, Estados Unidos, pegua ombojeko peteĩ jetypeka isasóva ha ikatúva ombo'ohesakãmba'éichapa umi abuso peichagua oñemombe'u yhyje'y rete umi ohasava'ekue La Rye Nasã ha ikatúva kuri ohasa ojeikuaa'ỹre areterei ha oañoãva opaichagua ñeikotevẽva ha iporãva moambue."
+    },
+    {
+      "text": "Gimnasta Joaju Estados Unidos pegua ha USOC oguereko peteĩ temimo'ã - tojejapo pe deporte gimnasta ha ambue kuera, añete ikatuháicha umi atleta kuerape guara oheka haguã ikerayvoty kuera peteĩ jeikoha añeteva, positivo ha oñemombareteva.",
+      "asr": "Hymnasta joaju Estados Unidos pegua ha uso oguereko peteĩ temimo'ã tojejapo pe jeporte, hymnasta ha ambue, kuéra añete ikatuháicha umi atriéta kuérape Guarao heka hag̃ua ikerayvoty, kuéra peteĩ jeikoha añetéva positiva ha oñemombaretéva."
+    },
+    {
+      "text": "Upe 1960 kuerajave, Brzezinski omba'apo kuri John F. Kennedy ndive iconsehero ramo ha upei Lyndon B. Johnson administracion pe avei.",
+      "asr": "Upe yvykuéra jave, veseichystýi omba'apókuri johokene rỹive ikonsejeroramo ha upéi rỹndo johosãi administración pe avei."
+    },
+    {
+      "text": "Upe 1976 jeiporavo jave, ha'e oaconseja Carter pe tetã ambue kuera moñondiveha, ha upei oservi Consejero Segurida Nacional pe (NSA) 1977 guive 1981 peve, Henry Kissinger rendaguepe.",
+      "asr": "Upe yre ndiaiporavo jave ha'e oako seja cartepe tetã ambue kuéra mondiveha ha upéi osévi kosejeroseuríta Nacional-pe'ysa yge guive peve hendy Hissinger renda guépe."
+    },
+    {
+      "text": "NSA pe, ha'e oipytyvõ Carter pe oñangarekovo upe tetãkuera moñondivepe, ha'eháicha upe Camp David ñemoĩ peteĩ ñe'ẽpe, 1978 pe; omoĩporã upe EE.UU. ha China moñondive upe 1970 paháirupi; Iran revolucion, ogueravaekue pe Iran crisi tapicha rehen rehegua, 1979 pe; ha upe Union Sovietica oikerõguare mbaretepe Afganistan pe, 1979 pe.",
+      "asr": "Nsápe ha'e oipytyvõ karterýpe oñangarekóvo upe tetakuéra moñondive ha'eháicha upe Kandavíry ñemoĩ peteĩ ñe'ẽpe jodepéi omoĩ porã upe'e'u ha chína moñondive upe paha irupi Iran Revolución oguerava'ekue pe irãkíche tapicha rehe rehegua ype ha upe Unión Soviética oikeroaguáre"
+    }
+  ],
+  "date": "2026-10-02T2047",
+  "component": "tts",
+  "model": "models/t2 (asr models/w2)",
+  "dataset": "flores",
+  "device": "cuda",
+  "limit": 200
+}

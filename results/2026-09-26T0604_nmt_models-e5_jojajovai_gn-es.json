@@ -1,0 +1,118 @@
+{
+  "direction": "gn-es",
+  "n": 5334,
+  "metrics": {
+    "chrf++": 56.87,
+    "bleu": 37.77,
+    "comet": 0.7412
+  },
+  "latency_s_per_item": 0.1352,
+  "samples": [
+    {
+      "src": "Ko'ágã Cartes turno",
+      "ref": "Ahora es el turno de Cartes",
+      "hyp": "Ahora es el turno de Cartes"
+    },
+    {
+      "src": "Movilización ciudadana oñembyaty ko'ã tendáre residencia mburuvicha Horacio Cartes oîva avenida España.",
+      "ref": "La movilización ciudadana se concentra hoy en inmediaciones de la residencia del presidente Horacio Cartes sobre la avenida España.",
+      "hyp": "La movilización ciudadana se congregó en las inmediaciones de la residencia del presidente Horacio Cartes ubicada en la avenida España."
+    },
+    {
+      "src": "Ko'ã manifestante omoî iñakãre ome'ê Yasyretã Argentina-pe, nota rupive.",
+      "ref": "Los manifestantes lo responsabilizan de entregar Yacyretá a la Argentina, por medio de las notas reversales.",
+      "hyp": "Los manifestantes se comprometieron a entregar Yacyretá a la Argentina, mediante una nota."
+    },
+    {
+      "src": "Tavaygua ko'ã ary oñembyatýva calle España ha Soldado Desconocido  100 metro rupi oikohápe Cartes, ombotývo tape sapy'a py'a tavaguasúpe.",
+      "ref": "Los ciudadanos de todas las edades se congregaron en la intersección de España y Soldado Desconocido a unos 100 metros de la residencia de Cartes, con un cierre intermitente de la mencionada avenida capitalina.",
+      "hyp": "Ciudadanos se congregaron en las calles España y Soldado Desconocido a unos 100 metros de la residencia de Cartes, cerrando temporalmente las calles de la ciudad."
+    },
+    {
+      "src": "Ojehecha despliegue policial ohapejokóva manifestantekuéra Cartes róga rovái, ha ijerére.",
+      "ref": "Un importante despliegue policial impidió que los ciudadanos puedan llegar hasta el frente del domicilio particular, cercando las intersecciones de en España y Soldado Desconocido como en España y Augusto Roa Bastos.",
+      "hyp": "Se observa un despliegue policial para frenar a los manifestantes frente a la casa de Cartes, y alrededores."
+    },
+    {
+      "src": "Ko'ã manifestante oreko poyvi ha umi pancarta orekóva consigna oimehápe defensa soberanía energética avei ipokarêva omomýiva instituciones públicas, péva orekóvo necesidad ciudadano común.",
+      "ref": "Los manifestantes portaban banderas paraguayas y pancartas con consignas en defensa de la soberanía energética y en contra de los corruptos que manejan a su antojo las instituciones públicas, en detrimento de las necesidades del ciudadano común.",
+      "hyp": "Los manifestantes llevan banderas y pancartas con consignas en defensa de la soberanía energética y contra la corrupción que afecta a las instituciones públicas, en detrimento de las necesidades del ciudadano común."
+    },
+    {
+      "src": "Ministro de Salud oguahë Centro de Salud de Ayolas-pe",
+      "ref": "Ministro de Salud visita Centro de Salud de Ayolas",
+      "hyp": "Ministro de Salud visitó Centro de Salud de Ayolas"
+    },
+    {
+      "src": "Ministro de Salud, Julio Mazzoleni, omoî compromiso oguahêvo 15 día oúva Ayolas-pe ovisita haguã Centro de Salud oîva barrio San Josemíme ohechávo tembiapo opu'ãva.",
+      "ref": "El ministro de Salud, Julio Mazzoleni, manifestó el compromiso de volver en 15 días a Ayolas para visitar el Centro de Salud ubicado en el barrio San José Mi, para observar de cerca los trabajos de reparación del edificio.",
+      "hyp": "El ministro de Salud, Julio Mazzoleni, se comprometió a llegar dentro de 15 días a Ayolas para visitar el Centro de Salud ubicado en el barrio San Josemí y observar los trabajos que se están realizando."
+    },
+    {
+      "src": "Oñomongetávo ABC Color ndive, titular cartera de Salud he'i oikuaáha umi rasgo problemática oîva Centro de Salud Ayolas-pe ha ojerurévo reapertura servicio completo oñemotenondévaheta jasy ohóvape umi grupo de familia oikotevêva, pero oreko cuestión de tiempo, ojuhúgui omoirûvo presidente de la República, Mario Abdo Benítez, ndikatúiva ojetraslada upe tendáre.",
+      "ref": "En conversación con ABC Color, el titular de la cartera de Salud manifestó que conoce a grandes rasgos la problemática del Centro de Salud de Ayolas y el reclamo de reapertura de servicios completos que vienen haciendo desde hace varios meses grupos de familias de escasos recursos, pero por una cuestión de tiempo, porque se encontraba acompañando al presidente de la República, Mario Abdo Benítez, no podía trasladarse hasta el lugar.",
+      "hyp": "En conversación con ABC Color, el titular de la cartera de Salud dijo estar al tanto de los rasgos de la problemática del Centro de Salud de Ayolas y solicitar la reapertura del servicio completo que se viene realizando desde hace varios meses para los grupos de familias que lo necesitan, pero que es una cuestión de tiempo, ya que el presidente de la República, Mario Abdo Benítez, no puede ser trasladado al lugar."
+    },
+    {
+      "src": "Upévare, omoherakuã mokõi arapokõindy oúvape ko tavaguasúpe específicamente ojesarekóvo avance obra rehe.",
+      "ref": "Por esa razón, anunció que en dos semanas retornará a esta ciudad específicamente para observar el avance de las obras.",
+      "hyp": "Por ello, anunció que en las próximas dos semanas visitará la ciudad específicamente para observar el avance de las obras."
+    },
+    {
+      "src": "Jehupytyvoirãme oime atención médica 24 aravo ko tensáre, oñeme'êvo recurso humano ha equipamiento ome'êvo población peteî servicio de salud ojerurehaguéicha mandatario.",
+      "ref": "El objetivo es proporcionar atención médica las 24 horas en el lugar, por lo que se debe dotar de recursos humanos e equipamiento para poder ofrecer a la población un buen servicio de salud como ordenó el mandatario.",
+      "hyp": "El objetivo es brindar atención médica las 24 horas del día, dotar de recursos humanos y equipamientos para brindar a la población un servicio de salud conforme a lo solicitado por el mandatario."
+    },
+    {
+      "src": "Péicha avei ko situación recursos humanos, oñemoarandúva ha orresolve ko apañuãi orekóva ntegración Ministerio de Salud ha Instituto de Previsión Social.",
+      "ref": "Además de la situación de recursos humanos, se debe estudiar y resolver el problema de la integración del Ministerio de Salud y el Instituto de Previsión Social.",
+      "hyp": "Además de la situación de los recursos humanos, se está estudiando la posibilidad de resolver el problema mediante la integración del Ministerio de Salud y el Instituto de Previsión Social."
+    },
+    {
+      "src": "Péicha  ary 2016 joajúvo oheja cobertura médica-pe umi familia oikóva situación vulnerables, Ayolas jerére,  ha he'íva ivaiha calidad servicio IPS oñembyaíva Centro de Salud oguahëvo.",
+      "ref": "La fusión que se dio en 2016 y dejó sin cobertura médica a familias en situación vulnerables, que habitan en diferentes barrios e islas que bordean las costas de Ayolas, es muy criticada por muchos asegurados, que señalan que la calidad del servicio del IPS empeoró con la llegada del Centro de Salud.",
+      "hyp": "En el 2016 se sumaron a dejar sin cobertura médica a familias que viven en situación vulnerable, en la zona de Ayolas, y señalaron que la calidad del servicio del IPS empeoró con la llegada del Centro de Salud."
+    },
+    {
+      "src": "OMomarandu avance ojeguerekóva sistema de seguridad social",
+      "ref": "Informan sobre avances en el sistema de seguridad social",
+      "hyp": "Informan avances en el sistema de seguridad social"
+    },
+    {
+      "src": "Ministerio del Trabajo omomarandu 16.000 mba'apohára oikéva sistema de seguridad IPS siete mesesoúvape , omboguatávo estrategia de formalización.",
+      "ref": "El Ministerio del Trabajo informó que más de 16.000 trabajadores ingresaron al sistema de seguridad del IPS en solo siete meses, con la implementación de una estrategia de formalización.",
+      "hyp": "El Ministerio del Trabajo informó que 16.000 trabajadores ingresarán al sistema de seguridad del IPS en los próximos siete meses, en el marco de su estrategia de formalización."
+    },
+    {
+      "src": "Haimete 16.183 mba'apohára oikéva sistema de Seguridad Social Instituto de Previsión Social (IPS) agosto ary ohasava'ekue  ha marzo ko arýpe, ombohapévo Estrategia Integrada Formalización del Empleo, omomarandu Ministerio de Trabajo, Empleo ha Seguridad Social (Mtess), marandu rupive.",
+      "ref": "Un total de 16.183 trabajadores fueron introducidos al sistema de Seguridad Social del Instituto de Previsión Social (IPS) entre los meses de agosto del año pasado y marzo de este año, con la implementación de la Estrategia Integrada de Formalización del Empleo, informó el Ministerio de Trabajo, Empleo y Seguridad Social (Mtess), a través de un comunicado.",
+      "hyp": "Un total de 16.183 trabajadores ingresaron al sistema de Seguridad Social del Instituto de Previsión Social (IPS) entre agosto del año pasado y marzo de este año, en el marco de la implementación de la Estrategia Integrada de Formalización del Empleo, informó el Ministerio de Trabajo, Empleo y Seguridad Social (Mtess), a través de un comunicado."
+    },
+    {
+      "src": "“Sistema de control cruzado rupive omomarandu Ministerio de Trabajo ha IPS oikehápe seguro 2.714 mb'apohára,  campaña de exoneración de multas oikehápe 931 mba'apohára.",
+      "ref": "“Mediante el sistema de control cruzado de información entre el Ministerio de Trabajo y el IPS se logró ingresar al seguro a 2.714 trabajadores, con la campaña de exoneración de multas ingresaron 931 trabajadores.",
+      "hyp": "“A través del sistema de control cruzado se informó al Ministerio de Trabajo y al IPS que se incluyó en el seguro a 2.714 trabajadores, en la campaña de exoneración de multas se incluyó a 931 trabajadores."
+    },
+    {
+      "src": "Péicha, digitalización Sistema Obrero Patronal ohupyty hikuái 12.295 obrero ko'ágã ndoikéiva ha ipahápe oreko seguridad social,péva omba'apóvo ha oîva'ekue  informalidad-pe.",
+      "ref": "Asimismo, a través de la digitalización del Sistema Obrero Patronal se lograron incluir a un total de 12.295 obreros que hasta ese momento no accedían a una seguridad social, es decir estaban trabajando en la informalidad.",
+      "hyp": "De esta manera, con la digitalización del Sistema Obrero Patronal se logrará que 12.295 obreros que actualmente no están incorporados finalmente tengan seguridad social, ya que trabajaban en la informalidad."
+    },
+    {
+      "src": "Ipahápe, ko'ã proceso fiscalización ha inspección ohupyty seguro IPS amo 243 mba'apohára.",
+      "ref": "Finalmente, mediante los procesos de fiscalización e inspección se logró migrar al seguro de IPS a 243 trabajadores.",
+      "hyp": "Finalmente, en el marco de los procesos de fiscalización e inspección se logró asegurar al IPS a unos 243 trabajadores."
+    },
+    {
+      "src": "Péicha umi  total de mba'apohára orekóva protección social, 7.411 kuña  ha 8.772 kuimba'e”,  odetalla  cartera.",
+      "ref": "Del total de trabajadores que al día de hoy gozan de una protección social, 7.411 son mujeres y 8.772 varones”, detalla la cartera.",
+      "hyp": "Del total de trabajadores con protección social, 7.411 son mujeres y 8.772 hombres”, detalla la cartera."
+    }
+  ],
+  "date": "2026-09-26T0604",
+  "component": "nmt",
+  "model": "models/e5",
+  "dataset": "jojajovai",
+  "device": "cuda",
+  "limit": null
+}

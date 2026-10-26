@@ -1,0 +1,8 @@
+[project]
+name = "guanani-omnilingual"
+version = "0.1.0"
+requires-python = ">=3.10,<3.13"
+dependencies = ["omnilingual-asr==0.2.0", "torchaudio==2.8.0", "numpy", "soundfile"]
+
+[tool.uv]
+package = false

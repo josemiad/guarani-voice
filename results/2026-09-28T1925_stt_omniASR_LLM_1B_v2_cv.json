@@ -1,0 +1,98 @@
+{
+  "n": 855,
+  "skipped": 0,
+  "metrics": {
+    "wer": 0.3636,
+    "cer": 0.0678,
+    "empty_refs": 0
+  },
+  "rtf": 0.0761,
+  "samples": [
+    {
+      "ref": "omba'apóva ñanduti iporãve hag̃ua",
+      "hyp": "omba'apóva ñanduti iporãve hag̃ua"
+    },
+    {
+      "ref": "Ñúme katu ynambu oĩva'ekue.",
+      "hyp": "ñúme katu'y nambu oĩ va'ekue"
+    },
+    {
+      "ref": "Heta ára ndaje ohasa asy.",
+      "hyp": "heta'ara ndaje ohasa azy"
+    },
+    {
+      "ref": "¡Pepracticavéke!",
+      "hyp": "pepracticavéke"
+    },
+    {
+      "ref": "sa'íma oĩ ka'aguy",
+      "hyp": "sa'ima oĩ kavy"
+    },
+    {
+      "ref": "ha ijykére mitãrusu roky",
+      "hyp": "ha ijykére mitãrusuroky"
+    },
+    {
+      "ref": "iporã umíva ojapokuaa",
+      "hyp": "iporã umiva ojapokuaa"
+    },
+    {
+      "ref": "Mitã ojapo'ỹva isy ha itúva ojeruréva chupekuéra.",
+      "hyp": "mitã ojapo'ỹva isy ha itúva ojeruréva chupekuéra"
+    },
+    {
+      "ref": "Oiménepiko ojeráma",
+      "hyp": "oiméne piko ojerama"
+    },
+    {
+      "ref": "Hetaitereíko ihénte la abuela",
+      "hyp": "heta itereíko ihénte la avuela"
+    },
+    {
+      "ref": "ha pehechakuaáta añeteha ko mombe'umi.",
+      "hyp": "ha pehechakuaáta añeteháko mombe'umi"
+    },
+    {
+      "ref": "Ha'éngo heñóikuri Paraguaýpe",
+      "hyp": "haʼéngo heñóikuri paraguaýpe"
+    },
+    {
+      "ref": "Peichaháguinte opa y chugui",
+      "hyp": "peichaháguinte opa y chugui"
+    },
+    {
+      "ref": "Ojejapo avei ñandyry.",
+      "hyp": "ojejapoavei ñandyry"
+    },
+    {
+      "ref": "Gabinete oguerekóva.",
+      "hyp": "gabinete oguerekóva"
+    },
+    {
+      "ref": "Che ermána la iporãvéva.",
+      "hyp": "che hermana la iporãveva"
+    },
+    {
+      "ref": "Aju voive, mbo'ehára",
+      "hyp": "aju voive mbo'ehára"
+    },
+    {
+      "ref": "Haʼekuéra ndahaʼeivoínte mbaʼeve.",
+      "hyp": "haʼekuéra ndahaʼeivoi nde mbaʼeve"
+    },
+    {
+      "ref": "Upégui osẽkuri kuimba'e ha kuña arandu",
+      "hyp": "upégui osẽkuri kuimbaʼe ha kuña arandu"
+    },
+    {
+      "ref": "Nde ru oñongatu sapy'arei oujeýrõ omba'ejerure.",
+      "hyp": "nde ru oñongatu sapy'arei oujeýrõ omba'ejerure"
+    }
+  ],
+  "date": "2026-09-28T1925",
+  "component": "stt",
+  "model": "omniASR_LLM_1B_v2",
+  "dataset": "cv",
+  "device": "cuda",
+  "limit": null
+}
